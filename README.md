@@ -1,5 +1,6 @@
 ## 🚀 AI Fast Resume & Career Architect
 **AI Fast Resume** is a next-generation career acceleration platform powered by **Google Gemini 3 Pro & Flash**. It goes beyond simple resume editing by offering a full suite of AI-driven tools: ATS optimization, multimodal portfolio generation, strategic career path prediction, and real-time voice/video mock interviews.
+
 ![alt text](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ![alt text](https://img.shields.io/badge/React-19-61dafb.svg)
